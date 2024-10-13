@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">Kpop</string>
+    <string name="my_name">Chiryl Malik Izzuddin</string>
+    <string name="my_email">chirylmalik0@gmail.com</string>
+    <string name="group_name">Nama Grup</string>
+    <string name="description">Deskripsi</string>
+    <string name="list">List</string>
+    <string name="head_history">Sejarah</string>
+    <string name="head_member">Anggota</string>
+    <string name="member">Member</string>
+    <string name="profile_icon">Profile</string>
+    <string name="back_icon">Back</string>
+    <string name="title_main">Kpop</string>
+    <string name="title_detail">Detail</string>
+    <string name="title_about_page">About Page</string>
+    <string-array name="data_kpop">
+        <item>aespa</item>
+        <item>(G)I-DLE</item>
+        <item>ITZY</item>
+        <item>IVE</item>
+        <item>LE SSERAFIM</item>
+        <item>NMIXX</item>
+        <item>QWER</item>
+        <item>Red Velvet</item>
+        <item>STAYC</item>
+        <item>TWICE</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Aespa adalah girl grup asal Korea Selatan yang dibentuk oleh SM Entertainment. Grup ini terdiri dari empat anggota: Karina, Giselle, Winter dan Ningning. Mereka melakukan debut pada 17 November 2020 dengan single "Black Mamba".</item>
+        <item>(G)I-dle adalah girlband Korea Selatan yang dibentuk oleh Cube Entertainment pada tahun 2018. Grup ini terdiri dari lima anggota: Miyeon, Minnie, Soyeon, Yuqi, dan Shuhua. Awalnya ada 6 orang, tapi Soojin meninggalkan grup pada 14 Agustus 2021. Mereka memulai debut pada 2 Mei 2018 dengan album mini pertama berjudul I Am.</item>
+        <item>Itzy adalah grup musik perempuan besutan JYP Entertainment dengan anggota 5 orang, yaitu Hwang Ye-ji, Choi Ji-su, Shin Ryu-jin, Lee Chae-ryeong, dan Shin Yu-na. Grup ini debut pada 12 Februari 2019, dengan dirilisnya singel berjudul It\'z Different.</item>
+        <item>Ive adalah grup idola wanita dari Korea Selatan yang dibentuk oleh Starship Entertainment pada tahun 2021. Grup ini ini terdiri dari enam anggota yaitu Gaeul, Yujin, Rei, Wonyoung, Liz, Leeseo. Mereka debut pada 1 Desember 2021 dengan single album "Eleven".</item>
+        <item>Le Sserafim adalah grup vokal wanita pertama hasil kolaborasi Source Music dan Hybe Corporation. Grup ini beranggotakan 5 orang, yaitu Sakura, Chae-won, Yun-jin, Kazuha, dan Eun-chae. Le Sserafim debut dengan album mini pertama "Fearless" dengan judul lagu yang sama pada 2 Mei 2022.</item>
+        <item>NMIXX adalah grup vokal wanita yang beranggotakan enam orang yakni: Lily, Haewon, Sullyoon, Bae, Jiwoo, dan Kyujin. Grup ini dibentuk oleh agensi asal Korea Selatan, JYP Entertainment. NMIXX debut secara resmi pada 22 Februari 2022, dengan album single bertajuk "Ad Mare".</item>
+        <item>QWER adalah girl band Korea Selatan di bawah 3Y Corporation dan Tamago Production. Mereka debut pada 18 Oktober 2023 dengan single album Harmony from Discord.</item>
+        <item>Red Velvet adalah grup vokal perempuan Korea Selatan yang dibentuk oleh SM Entertainment pada tahun 2014 dan terdiri dari lima anggota, yaitu Irene, Seulgi, Wendy, Joy, dan Yeri. Mereka memulai karier pada 1 Agustus 2014 dengan merilis single digital "Happiness (Kebahagiaan)" dengan formasi awal 4 anggota, Irene, Seulgi, Wendy, dan Joy. Pada Maret 2015, Red Velvet memiliki satu anggota baru yaitu Yeri. Nama Red Velvet memiliki gabungan arti, yaitu red (merah) melambangkan warna yang menyala serta bergairah, dan velvet (sutra) melambangkan citra feminin dan lembut. Dualitas ini tercermin dalam musik dan konsep mereka.</item>
+        <item>STAYC adalah grup vokal wanita asal Korea Selatan yang dibentuk oleh High Up Entertainment. Grup ini terdiri dari enam anggota: Sumin, Sieun, Isa, Seeun, Yoon, dan J. Grup ini memulai debut pada tanggal 12 November 2020, dengan merilis album singel debut mereka, Star to a Young Culture</item>
+        <item>Twice adalah girl grup Korea Selatan yang dibentuk oleh JYP Entertainment. Grup ini terdiri dari sembilan anggota: Nayeon, Jeongyeon, Momo, Sana, Jihyo, Mina, Dahyun, Chaeyoung, dan Tzuyu.</item>
+    </string-array>
+    <string-array name="data_photo">
+        <item>@drawable/aespa</item>
+        <item>@drawable/gidle</item>
+        <item>@drawable/itzy</item>
+        <item>@drawable/ive</item>
+        <item>@drawable/le_sserafim</item>
+        <item>@drawable/nmixx</item>
+        <item>@drawable/qwer</item>
+        <item>@drawable/red_velvet</item>
+        <item>@drawable/stayc</item>
+        <item>@drawable/twice</item>
+    </string-array>
+    <string-array name="data_history">
+        <item>Pada 26 Oktober 2020, sebuah video intro dirilis pada media sosial aespa yang mengumumkan nama dan logonya. Pada keesokan harinya, SM Entertainment mengumumkan bahwa mereka akan mendebutkan sebuah grup vokal perempuan baru pada bulan November. Pada akhir berikutnya, anggota pertama grup tersebut, Winter, resmi diumumkan. Pada 28 Oktober, anggota kedua, Karina, diumumkan. Pada hari yang sama, sebuah video menunjukkan sebuah konferensi pers yang menampilkan Lee Soo-man mengumumkan grup tersebut akan memiliki empat anggota, yang meliputi Giselle dan Ningning. Pada 29 Oktober, Ningning resmi diumumkan sebagai anggota ketiga grup tersebut. Pada 30 Oktober, anggota ke empat yang diumumkan ialah Giselle.</item>
+        <item>Pada 22 Maret 2018, Cube Entertainment mengumumkan grup vokal wanita baru mereka akan debut pada seperempat pertama tahun 2018, dengan Soyeon terungkap sebagai anggota pada Januari. Pada 5 April, mereka mengungkap logo dan nama grup vokal wanita yang akan debut, (G)I-DLE. Cube Entertainment mulai mengungkapkan anggota dari (G)I-DLE dengan merilis foto individual dari dua anggota, Miyeon dan Yuqi, pada 8 April. Soojin dan Shuhua diungkap dua hari kemudian pada 10 April. Minnie dan Soyeon merupakan anggota terakhir yang diungkap pada 12 April.</item>
+        <item>
+            Chaeryeong merupakan kontestan di K-pop Star 3 pada 2013. Pada tahun 2015, ia mengikuti kompetisi di JYP Entertainment\'s survival show Sixteen. Namun, dia tidak berhasil menjadi salah satu anggota dari girlgroup, Twice. Ryujin merupakan kontestan di JTBC\'s survival show Mix Nine pada tahun 2018. Ia menempati posisi pertama di antara perempuan lainnya di kompetisi, tetapi kalah dari laki-laki untuk pemenang keseluruhan. Yeji merupakan kontestan di SBS\' The Fan, tetapi tersingkir di episode 5.\n
+            Pada 20 Januari 2019, JYP Entertainment merilis sebuah video prolog yang memperkenalkan grup vokal perempuan mereka berikutnya, ITZY. Grup tersebut terdiri dari lima anggota: Hwang Ye-ji, Choi Ji-su, Shin Ryu-jin, Lee Chae-ryeong, dan Shin Yu-na.
+        </item>
+        <item>
+            Pada tanggal 22 Agustus 2021, sebuah artikel yang diterbitkan oleh Star News mengungkapkan bahwa Starship Entertainment akan mendebutkan grup idola wanita pada paruh kedua tahun 2021; juga dinyatakan bahwa mantan anggota IZ*ONE, An Yujin dan Jang Wonyoung, artis saat ini di bawah label, akan dimasukkan ke dalam grup. Kemudian pada hari yang sama, Starship mengkonfirmasi rencana untuk mendebutkan grup tetapi tidak memberikan komentar mengenai masuknya Yujin dan Wonyoung.\n
+            Pada tanggal 1 November, akun media sosial resmi grup tersebut dibuka bersamaan dengan pengungkapan nama mereka "Ive" dan motion video dari logo mereka. Pada tanggal 2 November, keesokan harinya, sebuah artikel Naver diterbitkan yang melaporkan bahwa grup tersebut akan terdiri dari enam anggota dan anggota yang sebelumnya diungkapkan Yujin dan Wonyoung akan dimasukkan. Pada 3 November, Yujin secara resmi diumumkan sebagai anggota pertama grup, diikuti oleh Gaeul pada 4 November, Wonyoung pada 5 November, Liz pada 6 November, Rei pada 7 November, dan terakhir Leeseo pada 8 November.
+        </item>
+        <item>
+            Pada 14 Maret 2022, Source Music mengumumkan bahwa mereka akan meluncurkan grup idola wanita baru bekerja sama dengan Hybe Corporation, dengan Sakura dan Kim Chae-won ditetapkan sebagai anggota pertama grup tersebut. Pada 21 Maret, Hybe mengonfirmasi bahwa grup tersebut akan resmi debut pada bulan Mei. Para anggota terungkap melalui "The First Moment of Le Sserafim" dari 4 April hingga 9 April (berurutan: Sakura, Kim Ga-ram, Hong Eun-chae, Kim Chae-won, Kazuha, dan Huh Yun-jin). Pada 13 April, Source Music mengumumkan bahwa Le Sserafim akan merilis album mini debut mereka, Fearless pada 2 Mei 2022. Pada 21 April, diumumkan bahwa pra-order album telah melampaui 270.000 salinan dalam tujuh hari.\n
+            Pada 20 Mei 2022, karena tuduhan kekerasan sekolah dan bullying terhadap Kim Ga-ram semakin kuat, Hybe Corporation dan Source Music menyatakan bahwa Ga-ram akan menjalani masa hiatus untuk sementara dan Le Sserafim akan melakukan promosi dengan lima orang anggota. Pada 20 Juli 2022, Hybe Corporation dan Source Music mengumumkan pemutusan kontrak dan pemberhentian Kim Ga-ram dari Le Sserafim. Mereka secara resmi akan melanjutkan aktivitas sebagai grup beranggotakan lima orang.
+        </item>
+        <item>
+            Pada Februari 2022, JYP Entertainment mengumumkan debut girl group NMIXX. Pada debutnya, NMIXX mengeluarkan single album “AD MARE“. NMIXX merupakan gabungan dari huruf \'N\' yang melambangkan now, new, and next. Lalu, penambahan kata \'MIX\' melambangkan keragaman dan kombinasi. Bisa dikatakan bahwa nama NMIXX memiliki arti sebagai kombinasi terbaik untuk menyongsong era baru, khususnya di dunia musik. Grup dari Korea Selatan yang beranggotakan 6 orang ini terdiri dari Haewon, Lily, Sullyoon, BAE, Jiwoo, dan Kyujin. Awalnya, girl group ini memiliki 7 orang anggota. Namun, Jinni meninggalkan NMIXX dan agensi JYP Entertainment. Pada 9 Desember 2022, JYP Entertainment akhirnya merilis pernyataan resmi terkait hengkangnya Jinni. Jinni meninggalkan grup ini karena masalah pribadi dan kontrak eksklusifnya telah diakhiri.
+        </item>
+        <item>
+            Pada tahun 2023, seorang YouTuber populer bernama Kim Gyeran bermimpi untuk menciptakan girl grup K-Pop yang unik. Impian ini menjadi kenyataan dengan terbentuknya QWER, grup berbakat yang terdiri dari 4 wanita – Chodan, Magenta, Hina, dan Siyeon.\n
+            Setiap anggota QWER membawa keterampilan dan pengalaman unik mereka ke dalam grup. Siyeon, mantan anggota grup idola Jepang NMB48, memiliki vokal dan penampilan panggung yang kuat. Chodan dan Magenta menambahkan sentuhan misteri dengan kehidupan masa lalu mereka yang dirahasiakan, memicu rasa penasaran penggemar. Hina melengkapi grupnya dengan bakatnya yang tak terbantahkan dan kepribadiannya yang menawan.\n
+            Bahkan sebelum debut resmi mereka, QWER sudah menciptakan gebrakan. Para penggemar sangat antusias untuk melihat apa yang akan dibawa oleh grup unik ini ke kancah K-Pop.
+        </item>
+        <item>
+            Red Velvet mulai terbentuk pada tahun 2007, ketika Seulgi direkrut sebagai trainee oleh SM Entertainment melalui audisi. Irene direkrut pada tahun 2009, dan Yeri pada tahun 2011. Pada tahun 2012, Wendy dan Joy direkrut melalui SM Global Auditions di Kanada dan Seoul, masing-masing. Persiapan untuk debut Red Velvet dimulai pada akhir 2013, dengan pengenalan Irene dan Seulgi pada Desember 2013 dan Wendy pada Maret 2014 melalui grup trainee SM Entertainment, SM Rookies. Irene dan Seulgi membuat penampilan cameo di video musik "1-4-3 (I Love You)" dan "Fantastic", masing-masing, oleh rekan label mereka Henry; Seulgi juga tampil di "Butterfly" milik Henry. Pada Maret 2014, Wendy, yang saat itu terdaftar sebagai anggota SR14G, diperkenalkan melalui perilisan "Because I Love You", soundtrack solo pertamanya untuk drama Mnet, Mimi. Rumor tentang debut grup mulai terdengar pada bulan Juli, yang kemudian dikonfirmasi oleh SM Entertainment. Dengan tambahan anggota Joy, kuartet ini debut pada tahun 2014 sebagai grup wanita pertama SM Entertainment dalam lima tahun dan grup idola pertama sejak tahun 2012.\n
+            Red Velvet melakukan performance debut resmi mereka pada 1 Agustus 2014, di program Music Bank. Single pertama mereka, "Happiness", dirilis secara digital pada 4 Agustus. Lagu ini adalah lagu urban Europop dengan "suara synth yang kuat" dan "ritme tribal Afrika", ditulis oleh Yoo Young-jin dan dikomposisikan oleh Will Simms, Chad Hugo (The Neptunes), Chris Holsten, dan Anne Judith Wik (Dsign Music). Video musik asli untuk "Happiness" mendapatkan lebih dari dua juta tampilan di YouTube dalam 24 jam pertama setelah dirilis sebelum dihapus karena kontroversi mengenai gambar latar belakang yang bermasalah dan digantikan dengan versi yang telah diedit. "Happiness" menjadi video musik K-pop yang paling banyak dilihat kedua di seluruh dunia pada Agustus 2014. Red Velvet menjadi grup wanita K-pop pertama yang memasuki tangga lagu single debut di Billboard World Digital Songs chart, di mana lagu tersebut mencapai posisi empat. Grup ini merilis single digital kedua mereka "Be Natural" pada 13 Oktober 2014.
+        </item>
+        <item>Pada 8 September, High Up Entertainment akan mendebutkan grup vokal wanita pertamanya, dengan Sieun sebagai anggota pertamanya. Pada 8 Oktober, High Up Entertainment mengumumkan bahwa grup tersebut akan debut pada November. Lima anggota terakhir - Isa, J, Yoon, Seeun, dan Sumin diungkapkan melalui film prolog pada 12, 13, dan 14 Oktober berturut-turut. Pada 22 Oktober, judul dari album singel mereka diumumkan menjadi Star to a Young Culture, dengan singel utama "So Bad". Jadwal teaser juga dirilis pada hari yang sama. Album singel tersebut diumumkan akan diproduksi oleh Black Eyed Pilseung yang dikenal dengan hits sebelumnya seperti "TT", "Touch My Body", "Roller Coaster", dan "Dumhdurum", serta pendiri dari High Up Entertainment. Duo produser itu menggambarkan suara grup sebagai "Teen Fresh", kombinasi dari "remaja" dan "segar", menggarisbawahi "warna vokal individu unik" dari grup tersebut.</item>
+        <item>
+            Pada 19 Desember 2013, JYP Entertainment (JYPE) mengumumkan bahwa mereka akan mendebutkan grup wanita baru pada paruh pertama tahun 2014, grup wanita pertama yang berasal dari perusahaan tersebut sejak debut Miss A pada tahun 2010. Pada 27 Februari 2014, trainee JYPE, Lena dan Cecilia, dikonfirmasi sebagai anggota grup yang sementara disebut 6MIX, sementara anggota lain yang dirumorkan termasuk trainee JYPE, Nayeon, Jeongyeon, Jihyo, dan Minyoung. Rencana debut grup tersebut akhirnya dibatalkan ketika Lena dan Cecilia meninggalkan perusahaan.\n
+            Pada 11 Februari 2015, J. Y. Park, pendiri JYPE, mengumumkan bahwa susunan grup wanita yang akan datang dengan tujuh anggota akan ditentukan melalui Sixteen, sebuah acara kompetisi survival yang akan ditayangkan di Mnet pada tahun itu. Acara tersebut dimulai pada 5 Mei dan berakhir pada 7 Juli dengan Nayeon, Jeongyeon, Sana, Jihyo, Mina, Dahyun, dan Chaeyoung terpilih sebagai tujuh anggota Twice. Park kemudian mengumumkan bahwa ia akan menambah jumlah anggota grup dari tujuh menjadi sembilan dengan menambahkan Tzuyu, yang dikenal sebagai "pilihan pemirsa" karena dia adalah kontestan yang paling populer pada akhir acara, dan Momo, yang ditambahkan langsung oleh Park karena ia merasa grup tersebut membutuhkan seseorang dengan kemampuan pertunjukan Momo. Keputusan ini menjadi kontroversial pada saat itu, dengan banyak orang mengeluhkan kontestan yang tereliminasi dapat bergabung dengan grup. Nama grup, Twice, dipilih oleh Park, yang menjelaskan bahwa "grup ini akan menyentuh hati orang-orang dua kali: sekali melalui telinga, dan sekali lagi melalui mata." Penggemar Twice dikenal sebagai "Once", yang biasa ditulis dengan huruf kapital semuanya, diilustrasikan oleh pernyataan anggota "Jika kamu mencintai kami bahkan sekali, kami akan membalas cintamu dengan dua kali cinta kami" di media sosial pada tahun 2015.
+        </item>
+    </string-array>
+
+    <string-array name="data_member">
+        <item>Karina, Giselle, Winter, Ningning</item>
+        <item>Miyeon, Minnie, Soyeon, Yuqi, Shuhua</item>
+        <item>Yeji, Ryujin, Yuna, Chaeryeong, Lia</item>
+        <item>Yujin, Wonyoung, Gaeul, Rei, Liz, Leeseo</item>
+        <item>Sakura, Kim Chaewon, Kazuha, Hong Eunchae, Yunjin</item>
+        <item>Sulyoon, Haewon, Bae, Lily, Kyujin, Jiwoo</item>
+        <item>Chodan, Siyeon, Hina, Magenta</item>
+        <item>Irene, Seulgi, Wendy, Joy, Yeri</item>
+        <item>Sumin, Sieun, Isa, Seeun, Yoon, J</item>
+        <item>Nayeon, Jeongyeon, Jihyo, Momo, Mina, Sana, Dahyun, Chaeyoung, Tzuyu</item>
+    </string-array>
+
+</resources>
